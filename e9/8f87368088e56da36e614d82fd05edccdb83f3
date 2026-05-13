@@ -1,0 +1,25 @@
+.env.example
+  s_c8c12787be37f3::t_e9883fb4861147 17
+  h_cb3d00609d57f2 18,22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "e98f87368088e56da36e614d82fd05edccdb83f3",
+  "prompts": {},
+  "humans": {
+    "h_cb3d00609d57f2": {
+      "author": "BoSeal <1135378788@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_c8c12787be37f3": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ab5bf498-d7ab-434f-bd64-5176c981ea2c",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "BoSeal <1135378788@qq.com>"
+    }
+  }
+}
