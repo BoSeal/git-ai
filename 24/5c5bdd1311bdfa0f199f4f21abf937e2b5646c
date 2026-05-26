@@ -1,0 +1,19 @@
+.env.test
+  s_7c50ee7821a8cc::t_320f75f089f353 8-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "245c5bdd1311bdfa0f199f4f21abf937e2b5646c",
+  "prompts": {},
+  "sessions": {
+    "s_7c50ee7821a8cc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_19cfae6f4ffeydb60gSanx0w6F",
+        "model": "unknown"
+      },
+      "human_author": "BoSeal <1135378788@qq.com>"
+    }
+  }
+}
