@@ -1,0 +1,14 @@
+.env.test
+  h_cb3d00609d57f2 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "dd5b520d52d2678d8717499770a628a0fb13a15f",
+  "prompts": {},
+  "humans": {
+    "h_cb3d00609d57f2": {
+      "author": "BoSeal <1135378788@qq.com>"
+    }
+  }
+}

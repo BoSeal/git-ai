@@ -1,0 +1,19 @@
+hello.sh
+  s_29e8d165edc563::t_3a555392b2f40f 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "67bb702441537f397ac53a393a8cc83d150af58b",
+  "prompts": {},
+  "sessions": {
+    "s_29e8d165edc563": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "69b8a384-d65d-4ff5-a043-59052fa35fd8",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "BoSeal <1135378788@qq.com>"
+    }
+  }
+}
