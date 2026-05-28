@@ -1,0 +1,19 @@
+test_test
+  s_9a3e03758fad9c::t_c649ed317b069a 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e060bdab3bf1bd6ecd3bb0e680bf0cbc4bf67fbd",
+  "prompts": {},
+  "sessions": {
+    "s_9a3e03758fad9c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1939e76daffe7vhGaY71065jgg",
+        "model": "unknown"
+      },
+      "human_author": "BoSeal <w1135378788@126.com>"
+    }
+  }
+}
