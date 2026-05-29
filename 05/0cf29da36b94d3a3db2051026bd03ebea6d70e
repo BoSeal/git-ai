@@ -1,0 +1,19 @@
+testxxx
+  s_0c24c95ccf2dfe::t_5018de66418b52 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "050cf29da36b94d3a3db2051026bd03ebea6d70e",
+  "prompts": {},
+  "sessions": {
+    "s_0c24c95ccf2dfe": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "f02d9855-21b3-44ee-bfa8-df8ad9b76f56",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "BoSeal <1135378788@qq.com>"
+    }
+  }
+}
