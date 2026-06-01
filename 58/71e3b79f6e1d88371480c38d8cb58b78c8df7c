@@ -1,0 +1,14 @@
+test
+  h_e0980b33cc55cc 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5871e3b79f6e1d88371480c38d8cb58b78c8df7c",
+  "prompts": {},
+  "humans": {
+    "h_e0980b33cc55cc": {
+      "author": "BoSeal <w1135378788@126.com>"
+    }
+  }
+}
