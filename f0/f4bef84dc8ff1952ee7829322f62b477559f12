@@ -1,0 +1,14 @@
+env_test
+  h_7150be16929867 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.3",
+  "base_commit_sha": "f0f4bef84dc8ff1952ee7829322f62b477559f12",
+  "prompts": {},
+  "humans": {
+    "h_7150be16929867": {
+      "author": "BoSeal"
+    }
+  }
+}
